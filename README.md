@@ -5,7 +5,7 @@ Coding challenge #4 from Udemy course: The complete iOS App Development Bootcamp
 
 Done without storyboard.
 
-## Sample Run: https://imgur.com/auoPDY3.gif
+## Sample Run:
 <img src= 'https://imgur.com/auoPDY3.gif' title='Tip Calculator App' width='' alt='Video Walkthrough' />
 
 ## MIT License
